@@ -4,3 +4,5 @@ This is the basic working AI agent, but there are obvious disadvantages, includi
 
 The architecture I described below might be best for the low- and high-end models I am trying to build now.
 
+![Alt text](IMG_3829.jpg)
+
